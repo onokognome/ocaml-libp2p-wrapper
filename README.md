@@ -11,4 +11,4 @@ Here's what I think is going to happen:
 * Think through where there needs to be separate single-threaded and multi-threaded versions of the Ocaml wrapper
 * go for broke!
 
-we have a wiki: https://github.com/onokognome/ocaml-libp2p-wrapper.wiki.git
+we have a wiki
